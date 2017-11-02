@@ -5,3 +5,4 @@ Hoth
 Dantooine
 Jakku
 Naboo
+Bespin
