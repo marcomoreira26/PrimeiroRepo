@@ -6,3 +6,4 @@ Kylo Ren
 Rey
 Leia
 Finn
+Chewbacca
